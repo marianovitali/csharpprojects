@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "suknBJCkEqXuLfmq6zNal1JogHFPPLYFbnWdYYyCs8KzoaNLTtnPHfWfNim1vpWem0hFMAznXyKulEuJE6Ck6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maroo\\source\\repos\\ClubMagnament\\ClubMagnament\\ClubMagnament.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maroo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\maroo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
